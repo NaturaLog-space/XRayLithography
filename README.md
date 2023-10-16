@@ -9,4 +9,8 @@ Going beyond EUV lithography
 - Aluminum Nitride
 - Boron Nitride
 - Semiconducting materials with ~200nm UV emission
+- https://www.sci.news/physics/deep-ultraviolet-light-emitting-diode-10478.html
+
+# Harmonic Generators
+- requires a harmonic generation of 10x at high efficiency
 - 
